@@ -1,0 +1,14 @@
+_pycache_
+venv/
+.ipynb_checkpoints
+.env
+_old
+*.ipynb
+*.zip
+*.png
+*.pdf
+*.bak
+*.csv
+*.tmp
+*.xlsx
+*.docx
